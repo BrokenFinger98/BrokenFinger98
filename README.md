@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000042&height=300&section=header&text=Sunwoo&animation=twinkling&fontColor=FFFFFF&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000042&height=200&section=header&text=Sunwoo&animation=twinkling&fontColor=FFFFFF&fontSize=50)
 
 ### Hi there 👋
 - 🔭 I’m currently working on Project using Java & Spring
