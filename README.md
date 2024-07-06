@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient&text=BrokenFinger98)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sunwoo%20render&fontSize=90)
 
 ### Hi there 👋
 - 🔭 I’m currently working on Project using Java & Spring
 - 🌱 I’m currently learning Java & Spring, Docker, Redis, kafka and MSA
-- 📧Email: dbtjsdn980818@naver.com
+- 📧 Email: dbtjsdn980818@naver.com
 - 😄 Pronouns: he, him, his
-- ⚡ Fun fact: I love dogs, movies
+- ⚡ Fun facts: I love dogs, movies, ballad, band music
 
 <br>
 
