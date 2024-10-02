@@ -10,7 +10,7 @@
 <br>
 
 ## 💻 Activity
-- 2022.07 ~ Samsung Software Academy For Youth
+- 2024.07 ~ Samsung Software Academy For Youth
 
 <br>
 
