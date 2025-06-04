@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on Project using Java & Spring
 - 🌱 I’m currently learning Java & Spring, Docker, Redis, Kafka and MSA
 - 📧 Email: dbtjsdn980818@naver.com
+- 🎥 Portfolio: https://www.notion.so/20600b34decf8093a031d2fbda3c3e6d?source=copy_link
 - 😄 Pronouns: he, him, his
 - ⚡ Fun facts: I love dogs, movies, ballad, band music
 
