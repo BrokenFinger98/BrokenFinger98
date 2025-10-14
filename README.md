@@ -20,24 +20,18 @@
 ### 🧠 Backend
 - <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Spring%20Cloud%20Config-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Spring%20Cloud%20Eureka-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 - <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
 - <img src="https://img.shields.io/badge/QueryDSL-8BC34A?style=flat-square"/>
 - <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+- <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Spring%20Rest%20Docs-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 ### ☁️ Infrastructure
 - <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
 - <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white"/>
 - <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"/>
-- <img src="https://img.shields.io/badge/AWS%20CloudFront-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-
-### 🧪 Test & Docs
-- <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Spring%20Rest%20Docs-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 ### 💾 Database
 - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
